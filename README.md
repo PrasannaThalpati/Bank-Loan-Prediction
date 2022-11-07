@@ -25,8 +25,6 @@ Streamlit
 
 ## 🛠 Skills
 Machine Learning, Python, Streamlit...
-
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 ## 🔗 Connect with Me
 [![Instagram](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](#)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanna-thalpati-87045a1ba/)
